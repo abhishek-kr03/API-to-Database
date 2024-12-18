@@ -1,7 +1,6 @@
 
 ---
 
-```markdown
 # Storing DATA from the API to the Local Database using RestTemplet
 
 A Spring Boot application that fetches user data from the [ReqRes API](https://reqres.in/api/users/) and stores it in a MySQL database. This project demonstrates how to integrate remote APIs with local databases using Spring Boot, RestTemplate, and JPA.
