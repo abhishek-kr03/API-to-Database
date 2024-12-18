@@ -1,21 +1,8 @@
 
 ---
 
-### **Repository Name**
-Choose a name that reflects the purpose of your project, such as:
-- `UserSyncApp`
-- `APItoMySQLSync`
-- `UserDataSync`
-- `ReqResUserSync`
-
----
-
-### **README.md Content**
-
-Here is the suggested content for your README file:
-
 ```markdown
-# UserSyncApp
+# Storing DATA from the API to the Local Database using RestTemplet
 
 A Spring Boot application that fetches user data from the [ReqRes API](https://reqres.in/api/users/) and stores it in a MySQL database. This project demonstrates how to integrate remote APIs with local databases using Spring Boot, RestTemplate, and JPA.
 
@@ -126,15 +113,9 @@ CREATE TABLE users (
 
 ---
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 ## Author
 
-Created by **Your Name**. Feel free to connect with me on [GitHub](https://github.com/your-username)!
+Created by **Abhishek Kumar**. Feel free to connect with me on [GitHub](https://github.com/abhishek-kr03)!
 ```
 
 ---
